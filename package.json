@@ -1,0 +1,14 @@
+{
+  "name": "PiggyBot",
+  "version": "1.0.0",
+  "description": "A PiggyBoom Bot",
+  "main": "index.js",
+  "author": "SangND",
+  "license": "MIT",
+  "scripts": {
+  	"start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
